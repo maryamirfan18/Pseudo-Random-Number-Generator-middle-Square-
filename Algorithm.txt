@@ -1,0 +1,10 @@
+Declare seed 
+Read seed 
+Random ( ) 
+Square the seed and assign it to a variable s 
+S=str(seed**2) 
+When len(s)not equal to 12 
+S=”0” +S  do 
+Int(S[3:9]) 
+For i in range (0,5) 
+Print (random())
