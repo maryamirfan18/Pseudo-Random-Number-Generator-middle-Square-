@@ -1,5 +1,5 @@
 # Pseudo-Random-Number-Generator [middle-Square]
-##INTRODUCTION
+## INTRODUCTION <br>
 A number is squared and the middle digits are returned as the next random number and same method is repeated to generate pseudo random numbers. <br>
 <br>
 To generate a sequence of n-digit pseudorandom numbers, an n-digit starting value is created and squared, producing a 2n-digit number. If the result has fewer than 2n digits, leading zeroes are added to compensate. The middle n digits of the result would be the next number in the sequence and returned as the result. This process is then repeated to generate more numbers.<br><br>
